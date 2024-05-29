@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ds1813-10")(type "KiCad")(uri "/home/clive/Documents/kicad/libraries/footprints/2024-02-17_12-31-04.kicad_sym")(options "")(descr ""))
+)
